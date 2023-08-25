@@ -2,7 +2,9 @@
 
 # Building
 
-Requires [flutter](https://wwww.flutter.dev). Requires xcode for macos/ios.
+Requires [flutter](https://wwww.flutter.dev)
+Requires [CMake](https://cmake.org/), [Ninja-build](https://ninja-build.org/), [clang++](https://clang.llvm.org/), [pgk-config](https://pkgconfig.freedesktop.org/releases/), [gtk-3.0](https://docs.gtk.org/gtk3/) for Linux.
+Requires xcode for macos/ios.
 Requires Android NDK to build for android. 
 
 ## Native Desktop
